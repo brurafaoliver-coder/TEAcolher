@@ -476,12 +476,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 366501878}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39803ccc1d609d34fa722f76908a97be, type: 3}
+  m_Script: {fileID: 11500000, guid: 83da9317937794d45b9c619f7e103524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 163917576}
   textoDiagnostico: {fileID: 1519225269}
   cameraAR: {fileID: 299430465}
+  testador: {fileID: 0}
+  condicaoLuz: {fileID: 0}
+  distanciaMetros: {fileID: 0}
+  angulo: {fileID: 0}
+  observacoes: {fileID: 0}
+  botaoCapturar: {fileID: 0}
+  botaoCopiarTudo: {fileID: 0}
+  textoCapturas: {fileID: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
